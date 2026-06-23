@@ -1,7 +1,11 @@
 #include<iostream>
+#include<string>
 using namespace std;
 int main(){
 cout<<"My name is shehzad khan";
+string schoolName;
+cout<<"please enter your school name";
+cin>>schoolName;
 
 return 0;
 }
